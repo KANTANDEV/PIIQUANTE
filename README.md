@@ -2,7 +2,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-                                                             Scénario
+                                                        Scénario
 
 Vous travaillez pour l'agence La Panthère, une grande agence de web design basée à Lyon. 
 L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. 
@@ -12,7 +12,7 @@ Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spéciali
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-                                              Rappel des spécification fonctionnelle
+                                          Rappel des spécification fonctionnelle
                                                 
 1 - Analyse de l’état actuel de SEO du site fourni
 2 - Amélioration du SEO du site.
